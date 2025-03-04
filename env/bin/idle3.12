@@ -1,0 +1,5 @@
+#!/Users/ben/Desktop/scripts/trends-in-fashion/env/bin/python3.12
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
